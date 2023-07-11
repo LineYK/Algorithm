@@ -1,3 +1,5 @@
+// 1929. Concatenation of Array (https://leetcode.com/problems/concatenation-of-array/)
+
 class Solution {
     public int[] getConcatenation(int[] nums) {
         int[] ans = new int[2*nums.length];
@@ -9,5 +11,3 @@ class Solution {
         return ans;
     }
 }
-
-// 1929. Concatenation of Array (https://leetcode.com/problems/concatenation-of-array/)

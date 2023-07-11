@@ -23,7 +23,9 @@ class Solution {
     }
 }
 
-/** IntStream.range
+/** IntStream.range(n, k) 단,n < k
+ * n부터 k-1까지의 스트림 생성
  * 
- * 
+ ** IntStream.rangeClosed(n, k)
+ * n부터 k까지의 스티림 생성
  */

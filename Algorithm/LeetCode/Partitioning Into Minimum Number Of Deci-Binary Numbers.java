@@ -1,3 +1,5 @@
+// 1689. Partitioning Into Minimum Number Of Deci-Binary Numbers (https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers)
+
 class Solution {
     public int minPartitions(String n) {
         int ans = 0;
@@ -7,5 +9,3 @@ class Solution {
         return ans;
     }
 }
-
-// 1689. Partitioning Into Minimum Number Of Deci-Binary Numbers (https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers)

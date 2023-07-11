@@ -27,8 +27,3 @@ class Solution {
                     .collect(Collectors.toList());
     }
 }
-
-/**
- * 
- * 
- */

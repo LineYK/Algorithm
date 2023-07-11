@@ -34,7 +34,11 @@ class Solution {
     }
 }
 
-/** mapToInt
+/** map() 
+ * 스트림 내의 요소들을 하나씩 특정 값으로 변환해준다.
+ * 이 때 값을 변환하기 위한 람다를 입력 받는다.
  * 
+ ** mapToInt()
+ * map과 동일하나 IntStream으로 반환해줌
  * 
  */

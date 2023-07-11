@@ -4,6 +4,8 @@
 
 1108.[IP 주소 범위 변경](./Algorithm/LeetCode/Defanging%20an%20IP%20Address.java)
 
+1365.[현재 숫자보다 작은 숫자의 수](./Algorithm/LeetCode/How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.java)
+
 1431.[사탕을 가장 많이 가진 아이들](./Algorithm/LeetCode/Kids%20With%20the%20Greatest%20Number%20of%20Candies.java)
 
 1470.[배열 섞기](./Algorithm/LeetCode/Shuffle%20the%20Array.java)
@@ -18,6 +20,8 @@
 
 1672.[가장 부유한 고객 자산](./Algorithm/LeetCode/Richest%20Customer%20Wealth.java)
 
+1678.[Goal 구문 해석](./Algorithm/LeetCode/Goal%20Parser%20Interpretation.java)
+
 1689.[최소 Deci-Binary 수 분할](./Algorithm/LeetCode/Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers.java)
 
 1920.[순열에서 배열 만들기](./Algorithm/LeetCode/Concatenation%20of%20Array.java)
@@ -26,9 +30,13 @@
 
 2011.[연산 수행 후 최종 변수의 값](./Algorithm/LeetCode/Final%20Value%20of%20Variable%20After%20Performing%20Operations.java)
 
+2114.[문장 속 최대 단어 수 찾기](./Algorithm/LeetCode/Maximum%20Number%20of%20Words%20Found%20in%20Sentences.java)
+
 2413.[최소 짝수 배수](./Algorithm/LeetCode/Smallest%20Even%20Multiple.java)
 
 2469.[온도 변환](./Algorithm/LeetCode/Convert%20the%20Temperature.java)
+
+2574.[왼쪽과 오른쪽 합 차이](./Algorithm/LeetCode/Left%20and%20Right%20Sum%20Differences.java)
 
 
 <br><br>
@@ -40,3 +48,15 @@
 [나머지가 1이 되는 수 찾기](./Algorithm/Programmers/나머지가%201이%20되는%20수%20찾기.java)
 
 [자릿수 더하기](./Algorithm/Programmers/자릿수%20더하기.java)
+
+[약수의 합](./Algorithm/Programmers/약수의%20합.java)
+
+[문자열 내 p와 y의 개수](./Algorithm/Programmers/문자열%20내%20p와%20y의%20개수.java)
+
+[자연수 뒤집어 배열로 만들기](./Algorithm/Programmers/자연수%20뒤집어%20배열로%20만들기.java)
+
+[서울에서 김서방 찾기](./Algorithm/Programmers/서울에서%20김서방%20찾기.java)
+
+[정수 제곱근 판별](./Algorithm/Programmers/정수%20제곱근%20판별.java)
+
+[정수 내림차순으로 배치하기](./Algorithm/Programmers/정수%20내림차순으로%20배치하기.java)
