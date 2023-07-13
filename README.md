@@ -4,6 +4,10 @@
 
 1108.[IP 주소 범위 변경](./Algorithm/LeetCode/Defanging%20an%20IP%20Address.java)
 
+1281.[정수의 자릿수 곱 과 합 빼기](./Algorithm/LeetCode/Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.java)
+
+1302.[가장 깊은 잎들의 합](./Algorithm/LeetCode/Deepest%20Leaves%20Sum.java)
+
 1365.[현재 숫자보다 작은 숫자의 수](./Algorithm/LeetCode/How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.java)
 
 1431.[사탕을 가장 많이 가진 아이들](./Algorithm/LeetCode/Kids%20With%20the%20Greatest%20Number%20of%20Candies.java)
@@ -29,6 +33,8 @@
 1929.[배열 연결](./Algorithm/LeetCode/Concatenation%20of%20Array.java)
 
 2011.[연산 수행 후 최종 변수의 값](./Algorithm/LeetCode/Final%20Value%20of%20Variable%20After%20Performing%20Operations.java)
+
+2160.[숫자 분할 후 네 자리 숫자의 최소 합계](./Algorithm/LeetCode/Minimum%20Sum%20of%20Four%20Digit%20Number%20After%20Splitting%20Digits.java)
 
 2114.[문장 속 최대 단어 수 찾기](./Algorithm/LeetCode/Maximum%20Number%20of%20Words%20Found%20in%20Sentences.java)
 
@@ -60,3 +66,11 @@
 [정수 제곱근 판별](./Algorithm/Programmers/정수%20제곱근%20판별.java)
 
 [정수 내림차순으로 배치하기](./Algorithm/Programmers/정수%20내림차순으로%20배치하기.java)
+
+[음양 더하기](./Algorithm/Programmers/음양%20더하기.java)
+
+[하샤드 수](./Algorithm/Programmers/하샤드%20수.java)
+
+[두 정수 사이의 합](./Algorithm/Programmers/두%20정수%20사이의%20합.java)
+
+[콜라츠 추측](./Algorithm/Programmers/콜라츠%20추측.java)
