@@ -28,6 +28,8 @@
 
 1689.[최소 Deci-Binary 수 분할](./Algorithm/LeetCode/Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers.java)
 
+1828. [원 내부에 있는 좌표의 수의 쿼리](./Algorithm/LeetCode/Queries%20on%20Number%20of%20Points%20Inside%20a%20Circlejava)
+
 1920.[순열에서 배열 만들기](./Algorithm/LeetCode/Concatenation%20of%20Array.java)
 
 1929.[배열 연결](./Algorithm/LeetCode/Concatenation%20of%20Array.java)
@@ -74,3 +76,11 @@
 [두 정수 사이의 합](./Algorithm/Programmers/두%20정수%20사이의%20합.java)
 
 [콜라츠 추측](./Algorithm/Programmers/콜라츠%20추측.java)
+
+[나누어 떨어지는 숫자 배열](./Algorithm/Programmers/나누어%20떨어지는%20숫자%20배열.java)
+
+[없는 숫자 더하기](./Algorithm/Programmers/없는%20숫자%20더하기.java)
+
+[제일 작은 수 제거하기](./Algorithm/Programmers/제일%20작은%20수%20제거하기.java)
+
+[핸드폰 번호 가리기](./Algorithm/Programmers/핸드폰%20번호%20가리기.java)
