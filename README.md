@@ -2,7 +2,11 @@
 
 771.[보석과 돌](./Algorithm/LeetCode/Jewels%20and%20Stones.java)
 
+1071.[문자열의 최대공약수](./Algorithm/LeetCode/Greatest%20Common%20Divisor%20of%20Strings.java)
+
 1108.[IP 주소 범위 변경](./Algorithm/LeetCode/Defanging%20an%20IP%20Address.java)
+
+1221.[균형 잡힌 문자열에서 문자열 분할](./Algorithm/LeetCode/Split%20a%20String%20in%20Balanced%20Strings.java)
 
 1281.[정수의 자릿수 곱 과 합 빼기](./Algorithm/LeetCode/Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.java)
 
@@ -28,7 +32,9 @@
 
 1689.[최소 Deci-Binary 수 분할](./Algorithm/LeetCode/Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers.java)
 
-1828. [원 내부에 있는 좌표의 수의 쿼리](./Algorithm/LeetCode/Queries%20on%20Number%20of%20Points%20Inside%20a%20Circlejava)
+1768.[문자열 번갈아며 병합하기](./Algorithm/LeetCode/Merge%20Strings%20Alternately.java)
+
+1828.[원 내부에 있는 좌표의 수의 쿼리](./Algorithm/LeetCode/Queries%20on%20Number%20of%20Points%20Inside%20a%20Circle.java)
 
 1920.[순열에서 배열 만들기](./Algorithm/LeetCode/Concatenation%20of%20Array.java)
 
@@ -46,6 +52,7 @@
 
 2574.[왼쪽과 오른쪽 합 차이](./Algorithm/LeetCode/Left%20and%20Right%20Sum%20Differences.java)
 
+2652.[배수 합계](./Algorithm/LeetCode/Sum%20Multiples.java)
 
 <br><br>
 
@@ -84,3 +91,7 @@
 [제일 작은 수 제거하기](./Algorithm/Programmers/제일%20작은%20수%20제거하기.java)
 
 [핸드폰 번호 가리기](./Algorithm/Programmers/핸드폰%20번호%20가리기.java)
+
+[문자열 내림차순으로 배치하기](./Algorithm/Programmers/문자열%20내림차순으로%20배치하기.java)
+
+[최댓값과 최솟값](./Algorithm/Programmers/최댓값과%20최솟값.java)
