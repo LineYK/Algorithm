@@ -1,5 +1,9 @@
 # LeetCode
 
+151.[문자열 안에 단어 순서 뒤집기](./Algorithm/LeetCode/R)
+
+535.[짧은 URL 인코딩과 디코딩](./Algorithm/LeetCode/Encode%20and%20Decode%20TinyURL.java)
+
 771.[보석과 돌](./Algorithm/LeetCode/Jewels%20and%20Stones.java)
 
 1071.[문자열의 최대공약수](./Algorithm/LeetCode/Greatest%20Common%20Divisor%20of%20Strings.java)
@@ -31,6 +35,8 @@
 1678.[Goal 구문 해석](./Algorithm/LeetCode/Goal%20Parser%20Interpretation.java)
 
 1689.[최소 Deci-Binary 수 분할](./Algorithm/LeetCode/Partitioning%20Into%20Minimum%20Number%20Of%20Deci-Binary%20Numbers.java)
+
+1720.[XOR화 된 배열 비암호화 하기](./Algorithm/LeetCode/Decode%20XORed%20Array.java)
 
 1768.[문자열 번갈아며 병합하기](./Algorithm/LeetCode/Merge%20Strings%20Alternately.java)
 
@@ -95,3 +101,11 @@
 [문자열 내림차순으로 배치하기](./Algorithm/Programmers/문자열%20내림차순으로%20배치하기.java)
 
 [최댓값과 최솟값](./Algorithm/Programmers/최댓값과%20최솟값.java)
+
+[내적](./Algorithm/Programmers/내적.java)
+
+[문자열 다루기 기본](./Algorithm/Programmers/문자열%20다루기%20기본.java)
+
+[가운데 글자 가져오기](./Algorithm/Programmers/가운데%20글자%20가져오기.java)
+
+[직사각형 별찍기](./Algorithm/Programmers/직사각형%20별찍기.java)
