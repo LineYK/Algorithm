@@ -123,3 +123,15 @@
 [행렬의 덧셈](./Algorithm/Programmers/행렬의%20덧셈.java)
 
 [JadenCase 문자열 만들기](./Algorithm/Programmers/JadenCase%20문자열%20만들기.java)
+
+[최대공약수와 최소공배수](./Algorithm/Programmers/최대공약수와%20최소공배수.java)
+
+[올바른 괄호](./Algorithm/Programmers/올바른%20괄호.java)
+
+[최솟값 만들기](./Algorithm/Programmers/최솟값%20만들기.java)
+
+[같은 숫자는 싫어](./Algorithm/Programmers/같은%20숫자는%20싫어.java)
+
+[이진 변환 반복하기](./Algorithm/Programmers/이진%20변환%20반복하기.java)
+
+[3진법 뒤집기](./Algorithm/Programmers/3진법%20뒤집기.java)
