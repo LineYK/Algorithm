@@ -135,3 +135,11 @@
 [이진 변환 반복하기](./Algorithm/Programmers/이진%20변환%20반복하기.java)
 
 [3진법 뒤집기](./Algorithm/Programmers/3진법%20뒤집기.java)
+
+[이상한 문자 만들기](./Algorithm/Programmers/이상한%20문자%20만들기.java)
+
+[예산](./Algorithm/Programmers/예산.java)
+
+[숫자의 표현](./Algorithm/Programmers/숫자의%20표현.java)
+
+[다음 큰 숫자](./Algorithm/Programmers/다음%20큰%20숫자.java)
