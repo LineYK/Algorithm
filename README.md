@@ -18,7 +18,11 @@
 
 1302.[가장 깊은 잎들의 합](./Algorithm/LeetCode/Deepest%20Leaves%20Sum.java)
 
+1313.[실행 길이 인코딩 목록 압축 해제](./Algorithm/LeetCode/Decompress%20Run-Length%20Encoded%20List.java)
+
 1365.[현재 숫자보다 작은 숫자의 수](./Algorithm/LeetCode/How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.java)
+
+1379.[클론 트리에서 이진 트리의 일치하는 노드 찾기](./Algorithm/LeetCode/Find%20a%20Corresponding%20Node%20of%20a%20Binary%20Tree%20in%20a%20Clone%20of%20That%20Tree.java)
 
 1389.[지정된 순서대로 타겟 배열 만들기](./Algorithm/LeetCode/Create%20Target%20Array%20in%20the%20Given%20Order.java)
 
@@ -67,6 +71,8 @@
 2652.[배수 합계](./Algorithm/LeetCode/Sum%20Multiples.java)
 
 2798.[목표를 달성한 직원 수](./Algorithm/LeetCode/Number%20of%20Employees%20Who%20Met%20the%20Target.java)
+
+2807.[링크드 리스트에서 최대 공약수 삽입하기](./Algorithm/LeetCode/Insert%20Greatest%20Common%20Divisors%20in%20Linked%20List.java)
 
 
 <br><br>
@@ -164,3 +170,7 @@
 [시저 암호](./Algorithm/Programmers/시저%20암호.java)
 
 [크기가 작은 부분문자열](./Algorithm/Programmers/크기가%20작은%20부분문자열.java)
+
+[숫자 문자열과 영단어](./Algorithm/Programmers/숫자%20문자열과%20영단어.java)
+
+[짝지어 제거하기](./Algorithm/Programmers/짝지어%20제거하기.java)
