@@ -178,3 +178,9 @@
 [카펫](./Algorithm/Programmers/카펫.java)
 
 [2016년](./Algorithm/Programmers/2016년.java)
+
+[K번째수](./Algorithm/Programmers/K번째수.java)
+
+[푸드 파이트 대회](./Algorithm/Programmers/푸드%20파이트%20대회.java)
+
+[모의고사](./Algorithm/Programmers/모의고사.java)
