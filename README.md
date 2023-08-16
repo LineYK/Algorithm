@@ -8,6 +8,8 @@
 
 807.[도시 스카이라인 유지를 위한 최대 증가](Algorithm/LeetCode/Max%20Increase%20to%20Keep%20City%20Skyline.java)
 
+938.[이진트리의 범위 합](./Algorithm/LeetCode/Ra)
+
 1071.[문자열의 최대공약수](./Algorithm/LeetCode/Greatest%20Common%20Divisor%20of%20Strings.java)
 
 1108.[IP 주소 범위 변경](./Algorithm/LeetCode/Defanging%20an%20IP%20Address.java)
@@ -47,6 +49,8 @@
 1720.[XOR화 된 배열 비암호화 하기](./Algorithm/LeetCode/Decode%20XORed%20Array.java)
 
 1768.[문자열 번갈아며 병합하기](./Algorithm/LeetCode/Merge%20Strings%20Alternately.java)
+
+1769.[모든 볼을 각 상자로 이동하는 최소 작업 수](./Algorithm/LeetCode/Minimum%20Number%20of%20Operations%20to%20Move%20All%20Balls%20to%20Each%20Box.java)
 
 1828.[원 내부에 있는 좌표의 수의 쿼리](./Algorithm/LeetCode/Queries%20on%20Number%20of%20Points%20Inside%20a%20Circle.java)
 
@@ -184,3 +188,5 @@
 [푸드 파이트 대회](./Algorithm/Programmers/푸드%20파이트%20대회.java)
 
 [모의고사](./Algorithm/Programmers/모의고사.java)
+
+[영어 끝말잇기](./Algorithm/Programmers/영어%20끝말잇기.java)
