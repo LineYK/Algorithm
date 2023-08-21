@@ -36,6 +36,8 @@
 
 1480.[1차 배열 누계](./Algorithm/LeetCode/Running%20Sum%20of%201d%20Array.java)
 
+1486.[배열에서 XOR 연산](./Algorithm/LeetCode/XOR%20Operation%20in%20an%20Array.java)
+
 1512.[좋은 쌍의 수](./Algorithm/LeetCode/Number%20of%20Good%20Pairs.java)
 
 1603.[주차 시스템 설계](./Algorithm/LeetCode/Design%20Parking%20System.java)
@@ -77,6 +79,8 @@
 2798.[목표를 달성한 직원 수](./Algorithm/LeetCode/Number%20of%20Employees%20Who%20Met%20the%20Target.java)
 
 2807.[링크드 리스트에서 최대 공약수 삽입하기](./Algorithm/LeetCode/Insert%20Greatest%20Common%20Divisors%20in%20Linked%20List.java)
+
+2824.[타겟보다 작은 두수 합 세기](./Algorithm/LeetCode/Count%20Pairs%20Whose%20Sum%20is%20Less%20than%20Target.java)
 
 
 <br><br>
@@ -196,3 +200,9 @@
 [가장 가까운 같은 글자](./Algorithm/Programmers/가장%20가까운%20같은%20글자.java)
 
 [구명보트](./Algorithm/Programmers/구명보트.java)
+
+[비밀지도](./Algorithm/Programmers/비밀지도.java)
+
+[두 개 뽑아서 더하기](./Algorithm/Programmers/두%20개%20뽑아서%20더하기.java)
+
+[N개의 최소공배수](./Algorithm/Programmers/N개의%20최소공배수.java)
