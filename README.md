@@ -18,6 +18,8 @@
 
 1281.[정수의 자릿수 곱 과 합 빼기](./Algorithm/LeetCode/Subtract%20the%20Product%20and%20Sum%20of%20Digits%20of%20an%20Integer.java)
 
+1282.[소속된 그룹 크기가 지정된 사용자 그룹화](./Algorithm/LeetCode/Group%20the%20People%20Given%20the%20Group%20Size%20They%20Belong%20To.java)
+
 1302.[가장 깊은 잎들의 합](./Algorithm/LeetCode/Deepest%20Leaves%20Sum.java)
 
 1313.[실행 길이 인코딩 목록 압축 해제](./Algorithm/LeetCode/Decompress%20Run-Length%20Encoded%20List.java)
@@ -66,11 +68,17 @@
 
 2160.[숫자 분할 후 네 자리 숫자의 최소 합계](./Algorithm/LeetCode/Minimum%20Sum%20of%20Four%20Digit%20Number%20After%20Splitting%20Digits.java)
 
+2161.[주어진 피벗에 따른 배열 분배](./Algorithm/LeetCode/Partition%20Array%20According%20to%20Given%20Pivot.java)
+
 2181.[0 사이 노드 병합하기](./Algorithm/LeetCode/Merge%20Nodes%20in%20Between%20Zeros.java)
 
 2413.[최소 짝수 배수](./Algorithm/LeetCode/Smallest%20Even%20Multiple.java)
 
+2433.[이전 XOR 연산으로 원래 배열 찾기](./Algorithm/LeetCode/Find%20The%20Original%20Array%20of%20Prefix%20Xor.java)
+
 2469.[온도 변환](./Algorithm/LeetCode/Convert%20the%20Temperature.java)
+
+2545.[k번째 점수로 학생 정렬하기](./Algorithm/LeetCode/Sort%20the%20Students%20by%20Their%20Kth%20Score.java)
 
 2574.[왼쪽과 오른쪽 합 차이](./Algorithm/LeetCode/Left%20and%20Right%20Sum%20Differences.java)
 
@@ -206,3 +214,5 @@
 [두 개 뽑아서 더하기](./Algorithm/Programmers/두%20개%20뽑아서%20더하기.java)
 
 [N개의 최소공배수](./Algorithm/Programmers/N개의%20최소공배수.java)
+
+[문자열 내 마음대로 정렬하기](./Algorithm/Programmers/문자열%20내%20마음대로%20정렬하기.java)
