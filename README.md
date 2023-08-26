@@ -24,6 +24,8 @@
 
 1313.[실행 길이 인코딩 목록 압축 해제](./Algorithm/LeetCode/Decompress%20Run-Length%20Encoded%20List.java)
 
+1342.[숫자를 0으로 줄이기 위한 단계 수](./Algorithm/LeetCode/Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.java)
+
 1365.[현재 숫자보다 작은 숫자의 수](./Algorithm/LeetCode/How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.java)
 
 1379.[클론 트리에서 이진 트리의 일치하는 노드 찾기](./Algorithm/LeetCode/Find%20a%20Corresponding%20Node%20of%20a%20Binary%20Tree%20in%20a%20Clone%20of%20That%20Tree.java)
@@ -42,7 +44,11 @@
 
 1512.[좋은 쌍의 수](./Algorithm/LeetCode/Number%20of%20Good%20Pairs.java)
 
+1528.[String 섞기](./Algorithm/LeetCode/Shuffle%20String.java)
+
 1603.[주차 시스템 설계](./Algorithm/LeetCode/Design%20Parking%20System.java)
+
+1656.[순서화된 스트림 설계](./Algorithm/LeetCode/Design%20an%20Ordered%20Stream.java)
 
 1672.[가장 부유한 고객 자산](./Algorithm/LeetCode/Richest%20Customer%20Wealth.java)
 
@@ -55,6 +61,8 @@
 1768.[문자열 번갈아며 병합하기](./Algorithm/LeetCode/Merge%20Strings%20Alternately.java)
 
 1769.[모든 볼을 각 상자로 이동하는 최소 작업 수](./Algorithm/LeetCode/Minimum%20Number%20of%20Operations%20to%20Move%20All%20Balls%20to%20Each%20Box.java)
+
+1773.[규칙과 일치하는 아이템 세기](./Algorithm/LeetCode/Count%20Items%20Matching%20a%20Rule.java)
 
 1828.[원 내부에 있는 좌표의 수의 쿼리](./Algorithm/LeetCode/Queries%20on%20Number%20of%20Points%20Inside%20a%20Circle.java)
 
@@ -216,3 +224,5 @@
 [N개의 최소공배수](./Algorithm/Programmers/N개의%20최소공배수.java)
 
 [문자열 내 마음대로 정렬하기](./Algorithm/Programmers/문자열%20내%20마음대로%20정렬하기.java)
+
+[H-Index]()
