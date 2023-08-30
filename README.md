@@ -32,6 +32,8 @@
 
 1389.[지정된 순서대로 타겟 배열 만들기](./Algorithm/LeetCode/Create%20Target%20Array%20in%20the%20Given%20Order.java)
 
+1409.[키를 사용한 순열에 대한 쿼리](./Algorithm/LeetCode/Queries%20on%20a%20Permutation%20With%20Key.java)
+
 1431.[사탕을 가장 많이 가진 아이들](./Algorithm/LeetCode/Kids%20With%20the%20Greatest%20Number%20of%20Candies.java)
 
 1470.[배열 섞기](./Algorithm/LeetCode/Shuffle%20the%20Array.java)
@@ -66,7 +68,13 @@
 
 1773.[규칙과 일치하는 아이템 세기](./Algorithm/LeetCode/Count%20Items%20Matching%20a%20Rule.java)
 
+1816.[문장 잘라내기](./Algorithm/LeetCode/Truncate%20Sentence.java)
+
 1828.[원 내부에 있는 좌표의 수의 쿼리](./Algorithm/LeetCode/Queries%20on%20Number%20of%20Points%20Inside%20a%20Circle.java)
+
+1832.[팡그램 문장 체크하기](./Algorithm/LeetCode/Check%20if%20the%20Sentence%20Is%20Pangram.java)
+
+1859.[문장 정렬하기](./Algorithm/LeetCode/Sorting%20the%20Sentence.java)
 
 1920.[순열에서 배열 만들기](./Algorithm/LeetCode/Concatenation%20of%20Array.java)
 
@@ -85,6 +93,8 @@
 2194.[엑셀 시트에서 셀 범위](./Algorithm/LeetCode/Cells%20in%20a%20Range%20on%20an%20Excel%20Sheet.java)
 
 2325.[메시지 해석하기](./Algorithm/LeetCode/Decode%20the%20Message.java)
+
+2367.[계산 세쌍의 수](./Algorithm/LeetCode/Number%20of%20Arithmetic%20Triplets.java)
 
 2413.[최소 짝수 배수](./Algorithm/LeetCode/Smallest%20Even%20Multiple.java)
 
