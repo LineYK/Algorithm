@@ -2,6 +2,12 @@
 
 151.[문자열 안에 단어 순서 뒤집기](./Algorithm/LeetCode/Reverse%20Words%20in%20a%20String.java)
 
+238.[자기 제외한 배열 생성](./Algorithm/LeetCode/Product%20of%20Array%20Except%20Self.java)
+
+258.[숫자 더하기](./Algorithm/LeetCode/Add%20Digits.java)
+
+338.[비트 세기](./Algorithm/LeetCode/Counting%20Bits.java)
+
 535.[짧은 URL 인코딩과 디코딩](./Algorithm/LeetCode/Encode%20and%20Decode%20TinyURL.java)
 
 771.[보석과 돌](./Algorithm/LeetCode/Jewels%20and%20Stones.java)
@@ -54,6 +60,8 @@
 
 1662.[두 개의 문자열 배열이 동일한지 확인](./Algorithm/LeetCode/Check%20If%20Two%20String%20Arrays%20are%20Equivalent.java)
 
+1688.[토너먼트 매치 세기](./Algorithm/LeetCode/Count%20of%20Matches%20in%20Tournament.java)
+
 1672.[가장 부유한 고객 자산](./Algorithm/LeetCode/Richest%20Customer%20Wealth.java)
 
 1678.[Goal 구문 해석](./Algorithm/LeetCode/Goal%20Parser%20Interpretation.java)
@@ -96,6 +104,8 @@
 
 2367.[계산 세쌍의 수](./Algorithm/LeetCode/Number%20of%20Arithmetic%20Triplets.java)
 
+2373.[행렬에서 가장 큰 지역 값](./Algorithm/LeetCode/Largest%20Local%20Values%20in%20a%20Matrix.java)
+
 2413.[최소 짝수 배수](./Algorithm/LeetCode/Smallest%20Even%20Multiple.java)
 
 2433.[이전 XOR 연산으로 원래 배열 찾기](./Algorithm/LeetCode/Find%20The%20Original%20Array%20of%20Prefix%20Xor.java)
@@ -119,6 +129,8 @@
 2807.[링크드 리스트에서 최대 공약수 삽입하기](./Algorithm/LeetCode/Insert%20Greatest%20Common%20Divisors%20in%20Linked%20List.java)
 
 2824.[타겟보다 작은 두수 합 세기](./Algorithm/LeetCode/Count%20Pairs%20Whose%20Sum%20is%20Less%20than%20Target.java)
+
+2828.[머리글자 문자와 문자가 일치한지 체크 ](./Algorithm/LeetCode/Check%20if%20a%20String%20Is%20an%20Acronym%20of%20Words.java)
 
 
 <br><br>
