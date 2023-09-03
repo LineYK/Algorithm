@@ -1,10 +1,14 @@
 # LeetCode
 
+62.[유일한 길](./Algorithm/LeetCode/Unique%20Paths.java)
+
 151.[문자열 안에 단어 순서 뒤집기](./Algorithm/LeetCode/Reverse%20Words%20in%20a%20String.java)
 
 238.[자기 제외한 배열 생성](./Algorithm/LeetCode/Product%20of%20Array%20Except%20Self.java)
 
 258.[숫자 더하기](./Algorithm/LeetCode/Add%20Digits.java)
+
+283.[0 움직이지](./Algorithm/LeetCode/Move%20Zeroes.java)
 
 338.[비트 세기](./Algorithm/LeetCode/Counting%20Bits.java)
 
@@ -14,11 +18,15 @@
 
 807.[도시 스카이라인 유지를 위한 최대 증가](Algorithm/LeetCode/Max%20Increase%20to%20Keep%20City%20Skyline.java)
 
+933.[최근 콜의 수](./Algorithm/LeetCode/Number%20of%20Recent%20Calls.java)
+
 938.[이진트리의 범위 합](./Algorithm/LeetCode/Ra)
 
 1071.[문자열의 최대공약수](./Algorithm/LeetCode/Greatest%20Common%20Divisor%20of%20Strings.java)
 
 1108.[IP 주소 범위 변경](./Algorithm/LeetCode/Defanging%20an%20IP%20Address.java)
+
+1137.[N번째 Tribonacci 수](./Algorithm/LeetCode/N-th%20Tribonacci%20Number.java)
 
 1221.[균형 잡힌 문자열에서 문자열 분할](./Algorithm/LeetCode/Split%20a%20String%20in%20Balanced%20Strings.java)
 
@@ -49,6 +57,8 @@
 1480.[1차 배열 누계](./Algorithm/LeetCode/Running%20Sum%20of%201d%20Array.java)
 
 1486.[배열에서 XOR 연산](./Algorithm/LeetCode/XOR%20Operation%20in%20an%20Array.java)
+
+1491.[최대, 최소를  제외한 급여 평균](./Algorithm/LeetCode/Average%20Salary%20Excluding%20the%20Minimum%20and%20Maximum%20Salary.java)
 
 1512.[좋은 쌍의 수](./Algorithm/LeetCode/Number%20of%20Good%20Pairs.java)
 
