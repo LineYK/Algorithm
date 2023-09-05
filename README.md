@@ -2,6 +2,10 @@
 
 62.[유일한 길](./Algorithm/LeetCode/Unique%20Paths.java)
 
+138.[랜덤 포인터 갖고 있는 리스트 복사하기](./Algorithm/LeetCode/Copy%20List%20with%20Random%20Pointer.java)
+
+141.[링크드 리스트 순환](./Algorithm/LeetCode/Linked%20List%20Cycle.java)
+
 151.[문자열 안에 단어 순서 뒤집기](./Algorithm/LeetCode/Reverse%20Words%20in%20a%20String.java)
 
 238.[자기 제외한 배열 생성](./Algorithm/LeetCode/Product%20of%20Array%20Except%20Self.java)
@@ -13,6 +17,10 @@
 338.[비트 세기](./Algorithm/LeetCode/Counting%20Bits.java)
 
 535.[짧은 URL 인코딩과 디코딩](./Algorithm/LeetCode/Encode%20and%20Decode%20TinyURL.java)
+
+605.[꽃 심을 수 있는 장소](./Algorithm/LeetCode/Can%20Place%20Flowers.java)
+
+643.[서브배열 I](./Algorithm/LeetCode/Maximum%20Average%20Subarray%20I.java)
 
 771.[보석과 돌](./Algorithm/LeetCode/Jewels%20and%20Stones.java)
 
