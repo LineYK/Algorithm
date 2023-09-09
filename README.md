@@ -4,6 +4,8 @@
 
 92.[링크드 리스트 뒤집기 II](./Algorithm/LeetCode/Reverse%20Linked%20List%20II.java)
 
+118.[파스칼의 삼각형](./Algorithm/LeetCode/Pascal's%20Triangle.java)
+
 138.[랜덤 포인터 갖고 있는 리스트 복사하기](./Algorithm/LeetCode/Copy%20List%20with%20Random%20Pointer.java)
 
 141.[링크드 리스트 순환](./Algorithm/LeetCode/Linked%20List%20Cycle.java)
@@ -16,7 +18,11 @@
 
 283.[0 움직이지](./Algorithm/LeetCode/Move%20Zeroes.java)
 
+334.[증가하는 세 개의 요소 시퀀스](./Algorithm/LeetCode/Increasing%20Triplet%20Subsequence.java)
+
 338.[비트 세기](./Algorithm/LeetCode/Counting%20Bits.java)
+
+377.[조합 합 IV](./Algorithm/LeetCode/Combination%20Sum%20IV.java)
 
 535.[짧은 URL 인코딩과 디코딩](./Algorithm/LeetCode/Encode%20and%20Decode%20TinyURL.java)
 
@@ -50,6 +56,8 @@
 
 1313.[실행 길이 인코딩 목록 압축 해제](./Algorithm/LeetCode/Decompress%20Run-Length%20Encoded%20List.java)
 
+1323.[69 숫자 최대값](./Algorithm/LeetCode/Maximum%2069%20Number.java)
+
 1342.[숫자를 0으로 줄이기 위한 단계 수](./Algorithm/LeetCode/Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.java)
 
 1365.[현재 숫자보다 작은 숫자의 수](./Algorithm/LeetCode/How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.java)
@@ -75,6 +83,8 @@
 1512.[좋은 쌍의 수](./Algorithm/LeetCode/Number%20of%20Good%20Pairs.java)
 
 1528.[String 섞기](./Algorithm/LeetCode/Shuffle%20String.java)
+
+1572.[행렬 대각합](./Algorithm/LeetCode/Matrix%20Diagonal%20Sum.java)
 
 1603.[주차 시스템 설계](./Algorithm/LeetCode/Design%20Parking%20System.java)
 
@@ -283,4 +293,4 @@
 
 [문자열 내 마음대로 정렬하기](./Algorithm/Programmers/문자열%20내%20마음대로%20정렬하기.java)
 
-[H-Index]()
+[H-Index](./Algorithm/Programmers/H-Index.java)
