@@ -22,7 +22,11 @@
 
 338.[비트 세기](./Algorithm/LeetCode/Counting%20Bits.java)
 
+345.[문자열의 모음 거꾸로하기](./Algorithm/LeetCode/Reverse%20Vowels%20of%20a%20String.java)
+
 377.[조합 합 IV](./Algorithm/LeetCode/Combination%20Sum%20IV.java)
+
+392.[Is Subsequence](./Algorithm/LeetCode/Is%20Subsequence.java)
 
 535.[짧은 URL 인코딩과 디코딩](./Algorithm/LeetCode/Encode%20and%20Decode%20TinyURL.java)
 
@@ -60,6 +64,8 @@
 
 1342.[숫자를 0으로 줄이기 위한 단계 수](./Algorithm/LeetCode/Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.java)
 
+1359.[유효한 모든 픽업과 딜리버리 옵션 세기](./Algorithm/LeetCode/Count%20All%20Valid%20Pickup%20and%20Delivery%20Options.java)
+
 1365.[현재 숫자보다 작은 숫자의 수](./Algorithm/LeetCode/How%20Many%20Numbers%20Are%20Smaller%20Than%20the%20Current%20Number.java)
 
 1379.[클론 트리에서 이진 트리의 일치하는 노드 찾기](./Algorithm/LeetCode/Find%20a%20Corresponding%20Node%20of%20a%20Binary%20Tree%20in%20a%20Clone%20of%20That%20Tree.java)
@@ -87,6 +93,8 @@
 1572.[행렬 대각합](./Algorithm/LeetCode/Matrix%20Diagonal%20Sum.java)
 
 1603.[주차 시스템 설계](./Algorithm/LeetCode/Design%20Parking%20System.java)
+
+1647.[문자 빈도를 고유하게 만들기 위한 최소한 삭제](./Algorithm/LeetCode/Minimum%20Deletions%20to%20Make%20Character%20Frequencies%20Unique.java)
 
 1656.[순서화된 스트림 설계](./Algorithm/LeetCode/Design%20an%20Ordered%20Stream.java)
 
