@@ -4,19 +4,27 @@
 
 92.[링크드 리스트 뒤집기 II](./Algorithm/LeetCode/Reverse%20Linked%20List%20II.java)
 
+104.[이진 트리 최대 깊이](./Algorithm/LeetCode/Matrix%20Diagonal%20Sum.java)
+
 118.[파스칼의 삼각형](./Algorithm/LeetCode/Pascal's%20Triangle.java)
 
 138.[랜덤 포인터 갖고 있는 리스트 복사하기](./Algorithm/LeetCode/Copy%20List%20with%20Random%20Pointer.java)
 
+135.[사탕](./Algorithm/LeetCode/Candy.java)
+
 141.[링크드 리스트 순환](./Algorithm/LeetCode/Linked%20List%20Cycle.java)
 
 151.[문자열 안에 단어 순서 뒤집기](./Algorithm/LeetCode/Reverse%20Words%20in%20a%20String.java)
+
+206.[링크드 리스트 뒤집기](./Algorithm/LeetCode/Reverse%20Linked%20List.java)
 
 238.[자기 제외한 배열 생성](./Algorithm/LeetCode/Product%20of%20Array%20Except%20Self.java)
 
 258.[숫자 더하기](./Algorithm/LeetCode/Add%20Digits.java)
 
 283.[0 움직이지](./Algorithm/LeetCode/Move%20Zeroes.java)
+
+332.[여행일정 다시 만들기](./Algorithm/LeetCode/Reconstruct%20Itinerary.java)
 
 334.[증가하는 세 개의 요소 시퀀스](./Algorithm/LeetCode/Increasing%20Triplet%20Subsequence.java)
 
