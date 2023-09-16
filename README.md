@@ -100,7 +100,11 @@
 
 1572.[행렬 대각합](./Algorithm/LeetCode/Matrix%20Diagonal%20Sum.java)
 
+1584.[모든 포인트 연결을 위한 최소한 비용](./Algorithm/LeetCode/Min%20Cost%20to%20Connect%20All%20Points.java)
+
 1603.[주차 시스템 설계](./Algorithm/LeetCode/Design%20Parking%20System.java)
+
+1631.[최소한 노력의 길](./Algorithm/LeetCode/Path%20With%20Minimum%20Effort.java)
 
 1647.[문자 빈도를 고유하게 만들기 위한 최소한 삭제](./Algorithm/LeetCode/Minimum%20Deletions%20to%20Make%20Character%20Frequencies%20Unique.java)
 
