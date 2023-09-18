@@ -70,6 +70,8 @@
 
 1323.[69 숫자 최대값](./Algorithm/LeetCode/Maximum%2069%20Number.java)
 
+1337.[행렬에서 가장 약한 K개 열](./Algorithm/LeetCode/The%20K%20Weakest%20Rows%20in%20a%20Matrix.java)
+
 1342.[숫자를 0으로 줄이기 위한 단계 수](./Algorithm/LeetCode/Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero.java)
 
 1359.[유효한 모든 픽업과 딜리버리 옵션 세기](./Algorithm/LeetCode/Count%20All%20Valid%20Pickup%20and%20Delivery%20Options.java)
@@ -83,6 +85,8 @@
 1409.[키를 사용한 순열에 대한 쿼리](./Algorithm/LeetCode/Queries%20on%20a%20Permutation%20With%20Key.java)
 
 1431.[사탕을 가장 많이 가진 아이들](./Algorithm/LeetCode/Kids%20With%20the%20Greatest%20Number%20of%20Candies.java)
+
+1464.[배열에서 두 요소 최대 생산물](./Algorithm/LeetCode/Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array.java)
 
 1470.[배열 섞기](./Algorithm/LeetCode/Shuffle%20the%20Array.java)
 
@@ -165,6 +169,8 @@
 2433.[이전 XOR 연산으로 원래 배열 찾기](./Algorithm/LeetCode/Find%20The%20Original%20Array%20of%20Prefix%20Xor.java)
 
 2469.[온도 변환](./Algorithm/LeetCode/Convert%20the%20Temperature.java)
+
+2500.[각 열 가장 큰 값 제거](./Algorithm/LeetCode/Delete%20Greatest%20Value%20in%20Each%20Row.java)
 
 2520.[숫자를 나눠지는 숫자 세어보기](./Algorithm/LeetCode/Count%20the%20Digits%20That%20Divide%20a%20Number.java)
 
