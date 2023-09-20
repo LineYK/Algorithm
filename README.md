@@ -24,6 +24,8 @@
 
 283.[0 움직이지](./Algorithm/LeetCode/Move%20Zeroes.java)
 
+287.[복제 숫자 찾기](./Algorithm/LeetCode/Find%20the%20Duplicate%20Number.java)
+
 332.[여행일정 다시 만들기](./Algorithm/LeetCode/Reconstruct%20Itinerary.java)
 
 334.[증가하는 세 개의 요소 시퀀스](./Algorithm/LeetCode/Increasing%20Triplet%20Subsequence.java)
@@ -38,6 +40,8 @@
 
 535.[짧은 URL 인코딩과 디코딩](./Algorithm/LeetCode/Encode%20and%20Decode%20TinyURL.java)
 
+557.[문자열 단어 뒤집기 III](./Algorithm/LeetCode/Reverse%20Words%20in%20a%20String%20III.java)
+
 605.[꽃 심을 수 있는 장소](./Algorithm/LeetCode/Can%20Place%20Flowers.java)
 
 643.[서브배열 I](./Algorithm/LeetCode/Maximum%20Average%20Subarray%20I.java)
@@ -47,6 +51,8 @@
 771.[보석과 돌](./Algorithm/LeetCode/Jewels%20and%20Stones.java)
 
 807.[도시 스카이라인 유지를 위한 최대 증가](Algorithm/LeetCode/Max%20Increase%20to%20Keep%20City%20Skyline.java)
+
+872.[비슷한 잎의 트리들](./Algorithm/LeetCode/Leaf-Similar%20Trees.java)
 
 933.[최근 콜의 수](./Algorithm/LeetCode/Number%20of%20Recent%20Calls.java)
 
@@ -113,6 +119,8 @@
 1647.[문자 빈도를 고유하게 만들기 위한 최소한 삭제](./Algorithm/LeetCode/Minimum%20Deletions%20to%20Make%20Character%20Frequencies%20Unique.java)
 
 1656.[순서화된 스트림 설계](./Algorithm/LeetCode/Design%20an%20Ordered%20Stream.java)
+
+1658.[X를 0으로 만들기 위한 최소의 수행](./Algorithm/LeetCode/Minimum%20Operations%20to%20Reduce%20X%20to%20Zero.java)
 
 1662.[두 개의 문자열 배열이 동일한지 확인](./Algorithm/LeetCode/Check%20If%20Two%20String%20Arrays%20are%20Equivalent.java)
 
