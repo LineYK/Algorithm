@@ -4,6 +4,8 @@
 
 92.[링크드 리스트 뒤집기 II](./Algorithm/LeetCode/Reverse%20Linked%20List%20II.java)
 
+94.[이진 트리 중위 순회](./Algorithm/LeetCode/Binary%20Tree%20Inorder%20Traversal.java)
+
 104.[이진 트리 최대 깊이](./Algorithm/LeetCode/Matrix%20Diagonal%20Sum.java)
 
 118.[파스칼의 삼각형](./Algorithm/LeetCode/Pascal's%20Triangle.java)
@@ -58,6 +60,8 @@
 
 938.[이진트리의 범위 합](./Algorithm/LeetCode/Ra)
 
+1038.[이진 검색 트리에서 더 큰 합 트리로](./Algorithm/LeetCode/Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree.java)
+
 1071.[문자열의 최대공약수](./Algorithm/LeetCode/Greatest%20Common%20Divisor%20of%20Strings.java)
 
 1108.[IP 주소 범위 변경](./Algorithm/LeetCode/Defanging%20an%20IP%20Address.java)
@@ -91,6 +95,8 @@
 1409.[키를 사용한 순열에 대한 쿼리](./Algorithm/LeetCode/Queries%20on%20a%20Permutation%20With%20Key.java)
 
 1431.[사탕을 가장 많이 가진 아이들](./Algorithm/LeetCode/Kids%20With%20the%20Greatest%20Number%20of%20Candies.java)
+
+1448.[이진 트리에서 좋은 노드 세기](./Algorithm/LeetCode/Count%20Good%20Nodes%20in%20Binary%20Tree.java)
 
 1464.[배열에서 두 요소 최대 생산물](./Algorithm/LeetCode/Maximum%20Product%20of%20Two%20Elements%20in%20an%20Array.java)
 
