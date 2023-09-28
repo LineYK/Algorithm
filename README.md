@@ -50,9 +50,13 @@
 
 557.[문자열 단어 뒤집기 III](./Algorithm/LeetCode/Reverse%20Words%20in%20a%20String%20III.java)
 
+559.[N진 트리 최대 깊이](./Algorithm/LeetCode/Maximum%20Depth%20of%20N-ary%20Tree.java)
+
 605.[꽃 심을 수 있는 장소](./Algorithm/LeetCode/Can%20Place%20Flowers.java)
 
 617.[두 이진 트리 병합하기](./Algorithm/LeetCode/Merge%20Two%20Binary%20Trees.java)
+
+637.[이진 트리 각 층 값 평균](./Algorithm/LeetCode/Average%20of%20Levels%20in%20Binary%20Tree.java)
 
 643.[서브배열 I](./Algorithm/LeetCode/Maximum%20Average%20Subarray%20I.java)
 
@@ -68,9 +72,13 @@
 
 897.[증가하는 정렬 탐색 트리](./Algorithm/LeetCode/Increasing%20Order%20Search%20Tree.java)
 
+905.[패리티별 배열 정렬](./Algorithm/LeetCode/Sort%20Array%20By%20Parity.java)
+
 933.[최근 콜의 수](./Algorithm/LeetCode/Number%20of%20Recent%20Calls.java)
 
-938.[이진트리의 범위 합](./Algorithm/LeetCode/Ra)
+938.[이진트리의 범위 합](./Algorithm/LeetCode/Range%20Sum%20of%20BST.java)
+
+965.[고유한 값 가진 이진 트리](./Algorithm/LeetCode/Univalued%20Binary%20Tree.java)
 
 1038.[이진 검색 트리에서 더 큰 합 트리로](./Algorithm/LeetCode/Binary%20Search%20Tree%20to%20Greater%20Sum%20Tree.java)
 
