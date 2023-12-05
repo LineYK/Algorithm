@@ -136,6 +136,8 @@
 
 1528.[String 섞기](./Algorithm/LeetCode/Shuffle%20String.java)
 
+1561.[획득할 수 있는 최대 코인 수](./Algorithm/LeetCode/Maximum%20Number%20of%20Coins%20You%20Can%20Get.java)
+
 1572.[행렬 대각합](./Algorithm/LeetCode/Matrix%20Diagonal%20Sum.java)
 
 1584.[모든 포인트 연결을 위한 최소한 비용](./Algorithm/LeetCode/Min%20Cost%20to%20Connect%20All%20Points.java)
@@ -362,5 +364,11 @@
 <br><br>
 
 # 백준
+
+1026.[보물](./백준/Silver/1026. 보물/보물.java)
+
+5585.[거스름돈](./백준/Bronze/5585. 거스름돈/거스름돈.java)
+
+10162.[전자레인지](./백준/Bronze/10162. 전자레인지/전자레인지.java)
 
 11724.[연결 요소의 개수](./Algorithm/BaekJoon/연결%20요소의%20개수.java)
