@@ -64,9 +64,8 @@ public class Main {
 			coordinates[i] = Coordinate.of(x, y);
 		}
 
-		Arrays.sort(coordinates, Comparator.comparingInt(e -> e.y));
-        Arrays.sort(coordinates, Comparator.comparingInt(e -> e.x));
-
+		Arrays.sort(coordinates, Comparator.comparingInt((Coordinate o) -> o.x).thenComparingInt(o -> o.y));
+		
 		StringBuilder sb = new StringBuilder();
 
 		for (int i = 0; i < n; i++) {
