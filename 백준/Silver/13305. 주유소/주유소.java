@@ -63,11 +63,11 @@ public class Main {
 
       int n = Integer.parseInt(br.readLine());
 
-      int[] dist = Arrays.stream(br.readLine().split(" ")).mapToInt(Integer::parseInt).toArray();
-      int[] oils = Arrays.stream(br.readLine().split(" ")).mapToInt(Integer::parseInt).toArray();
+      long[] dist = Arrays.stream(br.readLine().split(" ")).mapToLong(Long::parseLong).toArray();
+      long[] oils = Arrays.stream(br.readLine().split(" ")).mapToLong(Long::parseLong).toArray();
 
-      int res = 0;
-      int minPrice = oils[0];
+      long res = 0;
+      long minPrice = oils[0];
 
       for (int i = 0; i < n - 1; i++) {
          if (minPrice > oils[i]) minPrice = oils[i];
