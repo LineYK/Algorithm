@@ -64,46 +64,22 @@ int main()
     cin >> a >> b >> c;
     unsigned int result = 0xFFFFFFFF;
 
-    for(char op1 : op)
-    {
-        for(char op2 : op)
-        {
-            unsigned int temp = 0xFFFFFFFF;
-            switch(op1)
-            {
-                case '+':
-                    temp = a + b;
-                    break;
-                case '-':
-                    temp = a - b;
-                    break;
-                case '*':
-                    temp = a * b;
-                    break;
-                case '/':
-                    if (a % b != 0)
-                        continue;
-                    temp = a / b;
-                    break;
-            }
+    auto apply_op = [](int x, int y, char op) -> unsigned int {
+        switch (op) {
+            case '+': return x + y;
+            case '-': return x - y;
+            case '*': return x * y;
+            case '/': return (y != 0 && x % y == 0) ? x / y : 0xFFFFFFFF;
+            default: return 0xFFFFFFFF;
+        }
+    };
 
-            switch(op2)
-            {
-                case '+':
-                    temp += c;
-                    break;
-                case '-':
-                    temp -= c;
-                    break;
-                case '*':
-                    temp *= c;
-                    break;
-                case '/':
-                    if (temp % c != 0)
-                        continue;
-                    temp /= c;
-                    break;
-            }
+    for (char op1 : op) {
+        for (char op2 : op) {
+            unsigned int temp = apply_op(a, b, op1);
+            if (temp == 0xFFFFFFFF) continue;
+            temp = apply_op(temp, c, op2);
+            if (temp == 0xFFFFFFFF) continue;
             
             result = min(result, temp);
         }
