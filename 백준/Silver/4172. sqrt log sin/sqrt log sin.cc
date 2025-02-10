@@ -1,8 +1,9 @@
 /*
 sqrt log sin 다국어
  
-시간 제한	메모리 제한	제출	정답	맞힌 사람	정답 비율
-1 초	128 MB	1331	564	427	40.861%
+시간 제한	메모리 제한
+1 초	128 MB
+
 문제
 도현이는 수학 숙제를 하고 있다. 문제는 다음과 같다.
 
@@ -53,7 +54,8 @@ int main() {
     vector<int> dp(1000001, 1);
 
     for (int i = 1; i <= 1000000; i++) {
-        dp[i] = (dp[(int)(i - sqrt(i))] + dp[(int)log(i)] + dp[(int)(i * sin(i) * sin(i))]) % 1000000;
+        dp[i] = dp[(int)(i - sqrt(i))] + dp[(int)log(i)] + dp[(int)(i * sin(i) * sin(i))];
+        dp[i] %= 1000000;
     }
 
     while (1) {
